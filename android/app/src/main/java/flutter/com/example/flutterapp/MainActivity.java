@@ -12,6 +12,8 @@ public class MainActivity extends FlutterActivity {
 
     //发布第一个master 1.0 版本
 
+    //增加一个master1.0 tag
+
 
   }
 }
