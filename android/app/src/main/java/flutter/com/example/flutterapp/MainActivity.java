@@ -14,6 +14,8 @@ public class MainActivity extends FlutterActivity {
 
     //增加一个master1.0 tag
 
+    //针对devlopv1.0.0 功能新增新的功能特性 featrue 2.0   完成提交
+
 
   }
 }
